@@ -12,7 +12,8 @@
 - Основная разработка с тестированием велись на режиме своместимости версии 8.3.6. Возможно, будет работать и на более ранних версиях.
 
 Документация Telegram Bot API: <br>
-[[https://dev.vk.com/ru/method](https://core.telegram.org/bots/api)](https://core.telegram.org/bots/api)
+[https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
+
 
 ## Для начала использования библиотеки достаточно пройти два простых шага: ##
 <details>
