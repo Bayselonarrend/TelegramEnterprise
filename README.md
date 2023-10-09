@@ -345,3 +345,9 @@ ___
 >
 >Модуль Инструменты данной библиотеки совместим с подобным модулем библиотеки VKEnterprise для интеграции с ВКонтакте<br><br>
 >[https://github.com/Bayselonarrend/VKEnterprise](https://github.com/Bayselonarrend/VKEnterprise)
+
+<br>
+
+>![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+>
+>Статья на Инфостарте: [https://infostart.ru/1c/articles/1951756/](https://infostart.ru/1c/articles/1951756/)
