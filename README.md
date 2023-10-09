@@ -14,6 +14,10 @@
 Документация Telegram Bot API: <br>
 [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api)
 
+Схожая библиотека, но для VK:<br>
+[https://github.com/Bayselonarrend/VKEnterprise](https://github.com/Bayselonarrend/VKEnterprise)
+
+
 
 ## Для начала использования библиотеки достаточно пройти два простых шага: ##
 <details>
