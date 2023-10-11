@@ -352,6 +352,6 @@ ___
 
 <br>
 
->![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+>![Infostart](https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/infostart.svg)
 >
 >Статья на Инфостарте: [https://infostart.ru/1c/articles/1951756/](https://infostart.ru/1c/articles/1951756/)
