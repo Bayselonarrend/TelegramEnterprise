@@ -346,9 +346,13 @@ ___
 >[https://github.com/vbondarevsky/Connector/](https://github.com/vbondarevsky/Connector/)
 >
 >Остальной проект распространяется под лицензией MIT
->
->Модуль Инструменты данной библиотеки совместим с подобным модулем библиотеки VKEnterprise для интеграции с ВКонтакте<br><br>
->[https://github.com/Bayselonarrend/VKEnterprise](https://github.com/Bayselonarrend/VKEnterprise)
+>Модуль Инструменты данной библиотеки совместим с подобными модулями последних версий остальных библиотек в линейке <br><br>
+
+
+><ul>
+><li><img src="https://github.com/Bayselonarrend/ViberEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/ViberEnterprise/">ViberEnterprise</a> - библиотека для интеграции с Viber</li>
+>  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
+></ul>
 
 <br>
 
