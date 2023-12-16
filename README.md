@@ -344,14 +344,19 @@ ___
 >под Apache License, Version 2.0
 >
 >[https://github.com/vbondarevsky/Connector/](https://github.com/vbondarevsky/Connector/)
+<br>
+
+>Используются методы HMAC SHA-256 и некоторые другие из БСП
 >
+>Copyright (c) 2019, ООО 1С-Софт Все права защищены. Эта программа и сопроводительные материалы предоставляются в соответствии с условиями лицензии Attribution 4.0 International (CC BY 4.0) Текст лицензии доступен по ссылке: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
+<br>
+
 >Остальной проект распространяется под лицензией MIT
->Модуль Инструменты данной библиотеки совместим с подобными модулями последних версий остальных библиотек в линейке <br><br>
-
-
+>
+>Модуль Инструменты данной библиотеки совместим с подобными модулями последних версий остальных библиотек в линейке <br>
 ><ul>
 ><li><img src="https://github.com/Bayselonarrend/ViberEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/ViberEnterprise/">ViberEnterprise</a> - библиотека для интеграции с Viber</li>
->  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
+> <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
 ></ul>
 
 <br>
