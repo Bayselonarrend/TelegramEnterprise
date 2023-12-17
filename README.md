@@ -311,6 +311,25 @@ ___
 
 <details>
   
+<summary>Для Telegram Mini Apps (Web Apps)</summary>
+<br>
+Эти методы предназначены для работы с Telegram Mini Apps
+
+
+* __Проверить достоверность данных initData() | Метод: ОбработатьДанныеTMA()__
+  
+  | Параметр | Тип | Назначение |
+  |-|-|-|
+  | СтрокаДанных | Строка | querry из initData() |
+  | Токен | Строка | Токен бота |
+___
+
+</details>
+
+
+
+<details>
+  
 <summary>Прочее</summary>
 <br>
 Прочие методы
