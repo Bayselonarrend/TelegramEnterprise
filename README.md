@@ -382,4 +382,6 @@ ___
 
 >![Infostart](https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/infostart.svg)
 >
->Статья на Инфостарте: [https://infostart.ru/1c/articles/1951756/](https://infostart.ru/1c/articles/1951756/)
+>Статьи на Инфостарте:<br>
+>[https://infostart.ru/1c/articles/1951756/](https://infostart.ru/1c/articles/1951756/)<br>
+>[https://infostart.ru/1c/articles/1999597/](https://infostart.ru/1c/articles/1999597/)
