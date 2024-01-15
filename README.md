@@ -1,4 +1,11 @@
-
+<table><tr>
+<td>
+	<img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" height=128 width=128>
+</td>
+<td>
+	<span >TelegramEnterprise теперь часть Открытого пакета интеграций<br><a href="https://github.com/Bayselonarrend/OpenIntegrations">https://github.com/Bayselonarrend/OpenIntegrations</a></span>
+</td>
+</tr></table>
 
 ![1CTelegram](https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo_small.png)
 # TelegramEnterprise
